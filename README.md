@@ -8,4 +8,4 @@ Both classes have a convert_to_[other class] for easy conversions between the tw
 
 I also reccomend keeping your numbers under 100,000 (decimal) as rounding errors will start to occur in the QImag conversion. 
 
-If you have any questions, feel free to reach out to me at KeeganKresge.com
+If you have any questions, feel free to reach out to me on [my website.](https://keegankresge.com/contact-me/)
